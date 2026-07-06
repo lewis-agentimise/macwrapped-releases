@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://macwrapped.app"><img src="https://macwrapped.app/icon-192.png" width="96" alt="MacWrapped icon" /></a>
+  <a href="https://macwrapped.app"><img src="https://macwrapped.app/icon-192.png?v=2" width="96" alt="MacWrapped icon" /></a>
 </p>
 
 <h1 align="center">Your Mac, Wrapped.</h1>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://macwrapped.app"><img src="https://macwrapped.app/og.png" width="720" alt="MacWrapped — Your Mac, Wrapped. A free Mac app that turns your month of screen time into a shareable card." /></a>
+  <a href="https://macwrapped.app"><img src="https://macwrapped.app/og.png?v=2" width="720" alt="MacWrapped — Your Mac, Wrapped. A free Mac app that turns your month of screen time into a shareable card." /></a>
 </p>
 
 ## What's on your card
